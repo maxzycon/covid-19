@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="407" height="315.859" viewBox="0 0 407 315.859">
+  <g id="checklist__two_color" transform="translate(-110.803 -52.146)">
+    <path id="Path_460" data-name="Path 460" d="M162.906,195.046s13.051-61.4,45.893-61.4,50.31,96.519-29.572,107.017Z" fill="#f4a28c"/>
+    <path id="Path_461" data-name="Path 461" d="M162.906,195.046s13.051-61.4,45.893-61.4,50.31,96.519-29.572,107.017Z" opacity="0.1"/>
+    <rect id="Rectangle_224" data-name="Rectangle 224" width="204.325" height="253.387" transform="translate(190.485 67.377)" fill="#24285b"/>
+    <rect id="Rectangle_225" data-name="Rectangle 225" width="164.039" height="216.773" transform="translate(210.262 82.751)" fill="#fff"/>
+    <rect id="Rectangle_226" data-name="Rectangle 226" width="89.348" height="37.934" transform="translate(249.07 52.146)" fill="#ffd200"/>
+    <rect id="Rectangle_227" data-name="Rectangle 227" width="40.529" height="8.935" transform="translate(283.734 179.987)" fill="#a8a8a8" opacity="0.21"/>
+    <rect id="Rectangle_228" data-name="Rectangle 228" width="64.207" height="8.935" transform="translate(283.734 197.742)" fill="#a8a8a8" opacity="0.21"/>
+    <rect id="Rectangle_229" data-name="Rectangle 229" width="40.529" height="8.935" transform="translate(283.734 237.439)" fill="#a8a8a8" opacity="0.21"/>
+    <rect id="Rectangle_230" data-name="Rectangle 230" width="64.207" height="8.935" transform="translate(283.734 255.209)" fill="#a8a8a8" opacity="0.21"/>
+    <rect id="Rectangle_231" data-name="Rectangle 231" width="36.614" height="36.614" transform="translate(231.129 117.544)" fill="#68e1fd"/>
+    <rect id="Rectangle_232" data-name="Rectangle 232" width="36.614" height="36.614" transform="translate(231.129 174.666)" fill="#68e1fd"/>
+    <rect id="Rectangle_233" data-name="Rectangle 233" width="36.614" height="36.614" transform="translate(231.129 231.789)" fill="#68e1fd"/>
+    <path id="Path_462" data-name="Path 462" d="M243.449,135.8l4.317,6.3,8.949-11.588" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.737"/>
+    <path id="Path_463" data-name="Path 463" d="M243.449,192.837l4.317,6.3,8.949-11.6" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.737"/>
+    <path id="Path_464" data-name="Path 464" d="M296.7,234.428l-5.392,9.379,18.156-2.309,19.246-7s9.853,15.776,26.345,25.126a86.05,86.05,0,0,1,39.339,45.692l.459,1.276V219.111l-25.27-26.489Z" opacity="0.1"/>
+    <path id="Path_465" data-name="Path 465" d="M243.449,250.289l4.317,6.3L256.714,245" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.737"/>
+    <path id="Path_466" data-name="Path 466" d="M392.07,187.875s-20.623-18.486-51.156-5.737c-23.907,10.039-12.592,21.842.258,21.34s34.42-9.265,32.914,12.076c-1.362,18.8-24.682-8.232-38.048-7.171s-11.832,16.249,4.632,24.581,39.583,26.374,57.581,12.2S411.1,205.831,392.07,187.875Z" fill="#f4a28c"/>
+    <rect id="Rectangle_234" data-name="Rectangle 234" width="14.657" height="128.013" transform="translate(418.5 164.551) rotate(64.33)" fill="#68e1fd"/>
+    <path id="Path_467" data-name="Path 467" d="M386.678,250.447l72.21,117.558,58.915-50.3L414.185,215.855Z" fill="#68e1fd"/>
+    <path id="Path_468" data-name="Path 468" d="M303.11,220.014l-15.4,15.89,21.756-2.682Z" fill="#24285b"/>
+    <path id="Path_469" data-name="Path 469" d="M188.635,172.171s25.356-25.915,36.3-23.621c9.035,1.907,9.05,19.877-10.641,34.85a34.893,34.893,0,0,0-13.84,25.471c-.559,8.361-3.327,18.314-11.817,25.815-17.855,15.776-31.107,2.036-29.386-19.3S162.132,187.731,188.635,172.171Z" fill="#f4a28c"/>
+    <path id="Path_470" data-name="Path 470" d="M198.5,231.3l-9.537,131.871L110.8,348.185l39.31-131.555Z" fill="#68e1fd"/>
+    <rect id="Rectangle_235" data-name="Rectangle 235" width="40.529" height="8.935" transform="translate(283.734 121.574)" fill="#a8a8a8" opacity="0.21"/>
+    <rect id="Rectangle_236" data-name="Rectangle 236" width="64.207" height="8.935" transform="translate(283.734 139.329)" fill="#a8a8a8" opacity="0.21"/>
+    <path id="Path_471" data-name="Path 471" d="M158.46,357.321,175.4,224.3l23.1,7-9.537,131.871Z" opacity="0.1"/>
+    <path id="Path_472" data-name="Path 472" d="M386.678,250.447l12.735-16.02,85.533,111.334-26.059,22.244Z" opacity="0.1"/>
+  </g>
+</svg>

@@ -1,0 +1,664 @@
+html[data-theme="dark"] {
+  -webkit-filter: invert(1) hue-rotate(180deg);
+          filter: invert(1) hue-rotate(180deg);
+}
+
+html[data-theme="dark"] .invert {
+  -webkit-filter: invert(1) hue-rotate(180deg);
+          filter: invert(1) hue-rotate(180deg);
+}
+
+.bg_primary {
+  background-color: #383A57;
+}
+
+.shadow_navbot {
+  -webkit-box-shadow: 0 -8px 25px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 -8px 25px rgba(0, 0, 0, 0.1);
+}
+
+.black {
+  color: #383A57;
+}
+
+body {
+  background-color: #F8FAFF;
+}
+
+.navbar {
+  padding: 30px;
+}
+
+.page_informasi {
+  background-color: #383A57;
+  color: #FFFFFF;
+}
+
+.page_informasi h1 {
+  font-family: Proza Libre;
+  font-weight: 600;
+  font-size: 26px;
+  color: #FFFFFF;
+}
+
+.page_informasi p {
+  font-family: Open Sans;
+  font-weight: 300;
+  font-size: 20px;
+  margin: 15px 0;
+  color: #FFFFFF;
+}
+
+.kontak {
+  padding-bottom: 100px !important;
+  padding-top: 100px !important;
+}
+
+.btn_pengaduan {
+  background-color: #565657 !important;
+  color: #FFFFFF !important;
+  font-family: Open Sans !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  padding: 10px 17px !important;
+  border-radius: 5px !important;
+}
+
+.btn_pengaduan:hover {
+  background-color: #3b3b3b !important;
+  color: #FFFFFF !important;
+  font-family: Open Sans !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  border-radius: 5px !important;
+}
+
+.kontak_list {
+  margin-top: 30px;
+}
+
+.kontak_list h6 {
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 300;
+  color: #FFFFFF;
+}
+
+.kontak_list img {
+  margin-right: 11px;
+}
+
+.btn_link_informasi {
+  background-color: #565657 !important;
+  color: #FFFFFF !important;
+  font-family: Open Sans !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  padding: 12px 29px !important;
+  border-radius: 2px !important;
+}
+
+.btn_link_informasi:hover {
+  background-color: #383A57 !important;
+  color: #FFFFFF !important;
+  font-family: Open Sans !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+}
+
+.btn_pengaduan_form_page {
+  background-color: #C9C585 !important;
+  color: #FFFFFF !important;
+  font-family: Open Sans !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  padding: 12px 30px !important;
+  border-radius: 2px !important;
+}
+
+.btn_pengaduan_form_page:hover {
+  background-color: #b6b279 !important;
+  color: #FFFFFF !important;
+  font-family: Open Sans !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+}
+
+.btn_pengaduan_page {
+  background-color: #383A57 !important;
+  color: #FFFFFF !important;
+  font-family: Open Sans !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  padding: 8px 38px !important;
+  border-radius: 5px !important;
+}
+
+.btn_pengaduan_page:hover {
+  background-color: #565657 !important;
+  color: #FFFFFF !important;
+  font-family: Open Sans !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+}
+
+.btn_primary {
+  background-color: #383A57 !important;
+  color: #FFFFFF !important;
+  font-family: Open Sans !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  padding: 13px 69px !important;
+  border-radius: 2px !important;
+}
+
+.btn_primary:hover {
+  background-color: #565657 !important;
+  color: #FFFFFF !important;
+  font-family: Open Sans !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+}
+
+.navbar_menu a {
+  font-family: Proza Libre;
+  font-weight: 500;
+  font-size: 16px;
+  color: #565657;
+}
+
+.bg-light {
+  background-color: #FFFFFF !important;
+}
+
+.navbar_menu li.nav-item.active a {
+  font-family: Proza Libre;
+  font-weight: 600;
+  font-size: 16px;
+  color: #383A57 !important;
+}
+
+.nav_bot a.active_bottom svg {
+  color: #C9C585 !important;
+}
+
+.nav_bot svg {
+  color: #565657;
+}
+
+.navbar_menu li {
+  margin-left: 25px;
+}
+
+.card_informasi p {
+  font-family: Open Sans;
+  font-weight: 300;
+  font-size: 16px;
+  color: #383A57;
+  margin-bottom: 0px;
+}
+
+.card_informasi h1 {
+  font-family: Proza Libre;
+  font-weight: 600;
+  font-size: 26px;
+  color: #383A57;
+}
+
+.positive {
+  background-color: #D60B3A !important;
+}
+
+.meninggal {
+  background-color: #565657 !important;
+}
+
+.sehat {
+  background-color: #8FC985 !important;
+}
+
+.gugur {
+  background-color: #EDC030 !important;
+}
+
+.progress_bar_informasi {
+  margin-top: 22px !important;
+}
+
+.informasi_banner {
+  margin-top: 20px;
+}
+
+.informasi_banner .card {
+  -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+          box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+
+.shadow_light {
+  -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+          box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+
+footer {
+  background-color: #FFFFFF;
+}
+
+footer h1 {
+  font-family: Proza Libre;
+  font-size: 20px;
+  font-weight: 500;
+  color: #383A57;
+}
+
+footer a {
+  margin-right: 17px;
+}
+
+.card_kontak {
+  background-color: #565657;
+  border-radius: 0px;
+  color: #FFFFFF;
+}
+
+.card_kontak .card-body h1 {
+  font-family: Proza Libre;
+  font-weight: 600;
+  font-size: 26px;
+  border-radius: 0px;
+  color: #FFFFFF;
+}
+
+.card_kontak .card-body p {
+  font-family: Open Sans;
+  font-weight: 300;
+  font-size: 13px;
+  border-radius: 0px;
+  margin-top: 15px;
+  color: #FFFFFF;
+}
+
+.bg_pengaduan {
+  background-color: #FFFFFF;
+  height: 540px;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.pengaduan h1 {
+  font-family: Proza Libre;
+  font-weight: 600;
+  font-size: 26px;
+  color: #383A57;
+}
+
+.pengaduan p {
+  font-family: Open Sans;
+  font-weight: 300;
+  font-size: 13px;
+  color: #383A57;
+}
+
+.card_pengaduan {
+  background-color: #383A57;
+  border: none;
+  color: #FFFFFF;
+  border-radius: 0 25px 25px 25px;
+}
+
+.pengaduan {
+  margin-bottom: 250px !important;
+}
+
+#last_update {
+  font-family: Open Sans;
+  font-weight: 300;
+  color: #383A57;
+}
+
+.header_kebiasaan h1 {
+  font-family: Proza Libre;
+  font-weight: 600;
+  font-size: 26px;
+  color: #383A57;
+}
+
+.header_kebiasaan p {
+  font-family: Open Sans;
+  font-weight: 300;
+  font-size: 16px;
+  color: #383A57;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.list_kebiasaan {
+  margin-bottom: 16px;
+}
+
+.list_kebiasaan p {
+  font-family: Open Sans;
+  font-weight: 400;
+  font-size: 16px;
+  color: #383A57;
+}
+
+.kebiasaan_list {
+  padding-left: 100px;
+}
+
+.btn_custom_informasi {
+  background-color: #383A57;
+  color: #FFFFFF;
+  padding: 9px 14px;
+  border-radius: 5px;
+  font-family: Open Sans;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.btn_custom_informasi:hover {
+  background-color: #2e3047;
+  color: #FFFFFF;
+  padding: 9px 14px;
+  border-radius: 5px;
+  font-family: Open Sans;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.text_header_informasi h1 {
+  font-family: Proza Libre;
+  font-weight: 600;
+  font-size: 30px;
+  color: #383A57;
+}
+
+.text_header_informasi p {
+  font-family: Open Sans;
+  font-weight: 300;
+  font-size: 20px;
+  color: #383A57;
+  margin: 20px 0;
+}
+
+.tagline_list h1 {
+  font-family: Proza Libre;
+  font-weight: 600;
+  font-size: 30px;
+  color: #383A57;
+}
+
+.tagline_list p {
+  font-family: Open Sans;
+  font-weight: 300;
+  font-size: 20px;
+  color: #383A57;
+  line-height: 38px;
+  margin-top: 15px;
+}
+
+.bg_secondary {
+  background-color: #565657;
+  color: #FFFFFF;
+}
+
+.bg_secondary h1 {
+  font-family: Proza Libre;
+  font-size: 26px;
+  color: #FFFFFF;
+  font-weight: 600;
+}
+
+.bg_secondary p {
+  font-family: Open Sans;
+  font-size: 20px;
+  color: #FFFFFF;
+  font-weight: 300;
+}
+
+.bg_secondary .btn_video {
+  background-color: #C9C585;
+  padding: 14px 41px;
+  color: white;
+  font-family: Proza Libre;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 0px;
+}
+
+@media (max-width: 576px) {
+  .text_banner {
+    padding: 5px 30px;
+  }
+  .btn_link_informasi {
+    background-color: #565657 !important;
+    color: #FFFFFF !important;
+    font-family: Open Sans !important;
+    font-size: 13px !important;
+    font-weight: 400 !important;
+    padding: 10px 15px !important;
+    border-radius: 2px !important;
+  }
+  .btn_link_informasi:hover {
+    background-color: #383A57 !important;
+    color: #FFFFFF !important;
+    font-family: Open Sans !important;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+  }
+  .page_informasi h1 {
+    font-family: Proza Libre;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+  }
+  .page_informasi p {
+    font-family: Open Sans;
+    font-weight: 300;
+    font-size: 13px;
+    margin: 15px 0;
+    color: #FFFFFF;
+  }
+  .navbar_bottom p {
+    color: #383A57 !important;
+    font-family: Open Sans;
+    font-weight: 300;
+    font-size: 13px;
+  }
+  .navbar_bottom a.active_bottom p {
+    color: #C9C585 !important;
+    font-family: Open Sans;
+    font-weight: 400;
+    font-size: 13px;
+  }
+  .bg_secondary {
+    background-color: #565657;
+    color: #FFFFFF;
+  }
+  .bg_secondary h1 {
+    font-family: Proza Libre;
+    font-size: 20px;
+    color: #FFFFFF;
+    font-weight: 600;
+  }
+  .bg_secondary p {
+    font-family: Open Sans;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-weight: 300;
+  }
+  .bg_secondary .btn_video {
+    background-color: #C9C585;
+    padding: 10px 20px;
+    color: white;
+    font-family: Proza Libre;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 0px;
+  }
+  .banner {
+    padding-bottom: 150px !important;
+  }
+  .kontak {
+    padding-bottom: 150px !important;
+    padding-top: 0 !important;
+  }
+  .card_pengaduan {
+    background-color: #383A57;
+    border: none;
+    color: #FFFFFF;
+    border-radius: 5px !important;
+  }
+  .bg_pengaduan {
+    margin-bottom: 550px !important;
+  }
+  .text_pengaduan {
+    margin-top: 0px !important;
+  }
+  .svg_kebiasaan svg {
+    width: 90%;
+  }
+  .header_kebiasaan h1 {
+    font-family: Proza Libre;
+    font-weight: 600;
+    font-size: 16px;
+    color: #383A57;
+  }
+  .header_kebiasaan p {
+    font-family: Open Sans;
+    font-weight: 300;
+    font-size: 13px;
+    color: #383A57;
+    margin-top: 15px;
+    margin-bottom: 20px;
+  }
+  .kebiasaan_list {
+    padding-left: 50px;
+  }
+  .list_kebiasaan p {
+    font-family: Open Sans;
+    font-weight: 400;
+    font-size: 13px;
+    color: #383A57;
+  }
+  .tagline_list h1 {
+    font-family: Proza Libre;
+    font-weight: 600;
+    font-size: 26px;
+    color: #383A57;
+  }
+  .tagline_list p {
+    font-family: Open Sans;
+    font-weight: 300;
+    font-size: 16px;
+    color: #383A57;
+    margin-top: 15px;
+    margin-bottom: 50px;
+  }
+  .video {
+    padding-bottom: 130px !important;
+  }
+}
+
+@media (min-width: 576px) {
+  .text_banner {
+    padding: 5px 50px;
+  }
+  .video {
+    padding-top: 0px !important;
+    padding-bottom: 100px !important;
+  }
+  .tagline {
+    padding-bottom: 130px !important;
+  }
+  .svg_kebiasaan svg {
+    width: 90%;
+  }
+  .header_kebiasaan h1 {
+    font-family: Proza Libre;
+    font-weight: 600;
+    font-size: 20px;
+    color: #383A57;
+    margin-top: 50px;
+  }
+  .list_kebiasaan p {
+    font-family: Open Sans;
+    font-weight: 400;
+    font-size: 16px;
+    color: #383A57;
+  }
+  .page_informasi h1 {
+    font-family: Proza Libre;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .page_informasi p {
+    font-family: Open Sans;
+    font-weight: 300;
+    font-size: 16px;
+    color: #FFFFFF;
+  }
+  .banner {
+    padding-bottom: 130px !important;
+  }
+  .kontak {
+    padding-bottom: 150px !important;
+    padding-top: 0 !important;
+  }
+  .text_pengaduan {
+    margin-top: 0 !important;
+  }
+  .pengaduan {
+    margin-bottom: 550px !important;
+  }
+  .card_pengaduan {
+    border-radius: 5px;
+  }
+}
+
+@media (min-width: 768px) {
+  .page_informasi h1 {
+    font-family: Proza Libre;
+    font-weight: 600;
+    font-size: 26px;
+    color: #FFFFFF;
+  }
+  .page_informasi p {
+    font-family: Open Sans;
+    font-weight: 300;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .kontak {
+    padding-bottom: 200px !important;
+    padding-top: 50px !important;
+  }
+  .pengaduan {
+    padding-top: 50px !important;
+    margin-bottom: 300px !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .video {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+  }
+  .kontak {
+    padding: 100px !important;
+  }
+  .page_informasi h1 {
+    font-family: Proza Libre;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .page_informasi p {
+    font-family: Open Sans;
+    font-weight: 300;
+    font-size: 16px;
+    color: #FFFFFF;
+  }
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="763" height="81.505" viewBox="0 0 763 81.505">
+  <g id="Group_27" data-name="Group 27" transform="translate(-168 -448)">
+    <g id="Group_21" data-name="Group 21" transform="translate(168 448)">
+      <rect id="Rectangle_62" data-name="Rectangle 62" width="763" height="81" fill="#c9c585"/>
+      <line id="Line_1" data-name="Line 1" y2="81" transform="translate(132.732 0.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_2" data-name="Line 2" x2="0.807" y2="81" transform="translate(244.855 0.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_3" data-name="Line 3" x2="0.807" y2="81" transform="translate(368.484 0.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_20" data-name="Line 20" y2="81" transform="translate(506.616 0.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_21" data-name="Line 21" x2="0.807" y2="81" transform="translate(616.858 0.5)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+    <g id="Group_23" data-name="Group 23" transform="translate(215.606 460)">
+      <text id="M" transform="translate(0.394 34)" fill="#383a57" font-size="34" font-family="ProzaLibre-SemiBold, Proza Libre" font-weight="600"><tspan x="0" y="0">M</tspan></text>
+      <text id="A" transform="translate(126.394 34)" fill="#383a57" font-size="34" font-family="ProzaLibre-SemiBold, Proza Libre" font-weight="600"><tspan x="0" y="0">A</tspan></text>
+      <text id="S" transform="translate(243.394 34)" fill="#383a57" font-size="34" font-family="ProzaLibre-SemiBold, Proza Libre" font-weight="600"><tspan x="0" y="0">S</tspan></text>
+      <text id="K" transform="translate(372.394 34)" fill="#383a57" font-size="34" font-family="ProzaLibre-SemiBold, Proza Libre" font-weight="600"><tspan x="0" y="0">K</tspan></text>
+      <text id="E" transform="translate(497.394 35)" fill="#383a57" font-size="35" font-family="ProzaLibre-SemiBold, Proza Libre" font-weight="600"><tspan x="0" y="0">E</tspan></text>
+      <text id="R" transform="translate(627.394 34)" fill="#383a57" font-size="34" font-family="ProzaLibre-SemiBold, Proza Libre" font-weight="600"><tspan x="0" y="0">R</tspan></text>
+    </g>
+  </g>
+</svg>

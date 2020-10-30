@@ -1,0 +1,744 @@
+// colors
+$primary :  #383A57;
+$putih : #FFFFFF;
+$background : #F8FAFF;
+$secondary : #565657;
+$accent1 : #C9C585;
+$accent2 : #D6C90B;
+$accent3 : #F5ED7D;
+// end colors
+
+// utilities
+$radius-border : 15px;
+$fontproza : '26';
+$fontsize26 : 26px;
+$fontsize13 : 13px;
+$fontsize16 : 16px;
+$fontsize20 : 20px;
+$ops : Open Sans;
+$proza : Proza Libre;
+$regular : 400;
+$medium : 500;
+$semibold : 600;
+$light : 300;
+// end utilities
+
+// all device css 
+
+html[data-theme="dark"] {
+    filter: invert(1) hue-rotate(180deg);
+
+    .invert{
+        filter: invert(1) hue-rotate(180deg)
+    }
+  }
+
+
+
+.bg_primary{
+    background-color: $primary;
+}
+
+.shadow_navbot{
+    box-shadow: 0 -8px 25px rgba(0, 0, 0, 0.1);
+}
+
+.black {
+    color: $primary;
+}
+
+body{
+    background-color: $background;
+}
+
+.navbar {
+    padding: 30px;
+}
+
+.page_informasi{
+    background-color: $primary;
+    color: $putih;
+}
+
+.page_informasi h1{
+    font-family: $proza;
+    font-weight: $semibold;
+    font-size: $fontsize26;
+    color: $putih;
+}
+.page_informasi p{
+    font-family: $ops;
+    font-weight: $light;
+    font-size: $fontsize20;
+    margin: 15px 0;
+    color: $putih;
+}
+
+.kontak{
+    padding-bottom: 100px !important;
+    padding-top: 100px !important;
+}
+
+
+.btn_pengaduan{
+    background-color: $secondary !important;
+    color: $putih !important;
+    font-family: $ops !important;
+    font-size: $fontsize16 !important;
+    font-weight: $regular !important;
+    padding: 10px 17px !important;
+    border-radius: 5px !important;
+}
+
+.btn_pengaduan:hover{
+    background-color:  #3b3b3b !important;
+    color: $putih !important;
+    font-family: $ops !important;
+    font-size: $fontsize16 !important;
+    font-weight: $regular !important;
+    border-radius: 5px !important;
+}
+
+.kontak_list{
+    margin-top: 30px;
+}
+
+.kontak_list h6{
+    font-family: $ops;
+    font-size: $fontsize16;
+    font-weight: $light;
+    color: $putih;
+}
+
+.kontak_list img{
+    margin-right: 11px;
+}
+
+.btn_link_informasi{
+    background-color: $secondary !important;
+    color: $putih !important;
+    font-family: $ops !important;
+    font-size: $fontsize16 !important;
+    font-weight: $regular !important;
+    padding: 12px 29px !important;
+    border-radius: 2px !important;
+}
+
+.btn_link_informasi:hover{
+    background-color:  $primary !important;
+    color: $putih !important;
+    font-family: $ops !important;
+    font-size: $fontsize16 !important;
+    font-weight: $regular !important;
+}
+
+.btn_pengaduan_form_page{
+    background-color: $accent1 !important;
+    color: $putih !important;
+    font-family: $ops !important;
+    font-size: $fontsize16 !important;
+    font-weight: $regular !important;
+    padding: 12px 30px !important;
+    border-radius: 2px !important;
+}
+
+.btn_pengaduan_form_page:hover{
+    background-color:  #b6b279 !important;
+    color: $putih !important;
+    font-family: $ops !important;
+    font-size: $fontsize16 !important;
+    font-weight: $regular !important;
+}
+
+.btn_pengaduan_page{
+    background-color: $primary !important;
+    color: $putih !important;
+    font-family: $ops !important;
+    font-size: $fontsize16 !important;
+    font-weight: $regular !important;
+    padding: 8px 38px !important;
+    border-radius: 5px !important;
+}
+
+.btn_pengaduan_page:hover{
+    background-color:  $secondary !important;
+    color: $putih !important;
+    font-family: $ops !important;
+    font-size: $fontsize16 !important;
+    font-weight: $regular !important;
+}
+
+.btn_primary{
+    background-color: $primary !important;
+    color: $putih !important;
+    font-family: $ops !important;
+    font-size: $fontsize16 !important;
+    font-weight: $regular !important;
+    padding: 13px 69px !important;
+    border-radius: 2px !important;
+}
+
+.btn_primary:hover{
+    background-color:  $secondary !important;
+    color: $putih !important;
+    font-family: $ops !important;
+    font-size: $fontsize16 !important;
+    font-weight: $regular !important;
+}
+
+.navbar_menu a{
+    font-family: $proza;
+    font-weight: $medium;
+    font-size: $fontsize16;
+    color: $secondary;
+}
+
+.bg-light{
+    background-color: $putih !important;
+}
+
+.navbar_menu li.nav-item.active a{
+    font-family: $proza;
+    font-weight: $semibold;
+    font-size: $fontsize16;
+    color: $primary !important;
+}
+
+.nav_bot a.active_bottom svg{
+    color: $accent1 !important;
+}
+
+.nav_bot svg{
+    color: $secondary;
+}
+
+.navbar_menu li{
+    margin-left: 25px;
+}
+
+.card_informasi p{
+    font-family: $ops;
+    font-weight: $light;
+    font-size: $fontsize16;
+    color: $primary;
+    margin-bottom: 0px;
+}
+
+.card_informasi h1{
+    font-family: $proza;
+    font-weight: $semibold;
+    font-size: $fontsize26;
+    color: $primary;
+}
+
+.positive{
+    background-color: #D60B3A !important;
+}
+.meninggal{
+    background-color: #565657 !important;
+}
+
+.sehat{
+    background-color: #8FC985 !important;
+}
+
+.gugur{
+    background-color: #EDC030 !important;
+}
+
+.progress_bar_informasi{
+    margin-top: 22px !important;
+}
+
+.informasi_banner{
+    margin-top: 20px;
+}
+
+.informasi_banner .card{
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+
+.shadow_light{
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+
+footer{
+    background-color: $putih;
+}
+
+footer h1{
+    font-family: $proza;
+    font-size: 20px;
+    font-weight: $medium;
+    color: $primary;
+}
+
+footer a{
+    margin-right: 17px;
+}
+
+.card_kontak{
+    background-color: $secondary;
+    border-radius: 0px;
+    color: $putih;
+}
+
+.card_kontak .card-body h1{
+    font-family: $proza;
+    font-weight: $semibold;
+    font-size: $fontsize26;
+    border-radius: 0px;
+    color: $putih;
+}
+
+.card_kontak .card-body p{
+    font-family: $ops;
+    font-weight: $light;
+    font-size: $fontsize13;
+    border-radius: 0px;
+    margin-top: 15px;
+    color: $putih;
+}
+
+.bg_pengaduan{
+    background-color: $putih;
+    height: 540px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.pengaduan h1{
+    font-family: $proza;
+    font-weight: $semibold;
+    font-size: $fontsize26;
+    color: $primary;
+}
+
+.pengaduan p{
+    font-family: $ops;
+    font-weight: $light;
+    font-size: $fontsize13;
+    color: $primary;
+}
+
+.card_pengaduan{
+    background-color: $primary;
+    border: none;
+    color: $putih;
+    border-radius: 0 25px 25px 25px;
+}
+
+.pengaduan{
+    margin-bottom: 250px !important;
+}
+
+#last_update{
+    font-family: $ops;
+    font-weight: $light;
+    color: $primary;
+}
+
+.header_kebiasaan h1{
+    font-family: $proza;
+    font-weight: $semibold;
+    font-size: $fontsize26;
+    color: $primary;
+}
+
+.header_kebiasaan p{
+    font-family: $ops;
+    font-weight: $light;
+    font-size: $fontsize16;
+    color: $primary;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.list_kebiasaan{
+    margin-bottom: 16px;
+}
+
+.list_kebiasaan p{
+    font-family: $ops;
+    font-weight: $regular;
+    font-size: $fontsize16;
+    color: $primary;
+}
+
+.kebiasaan_list{
+    padding-left: 100px;
+}
+
+.btn_custom_informasi{
+    background-color: $primary;
+    color: $putih;
+    padding: 9px 14px;
+    border-radius: 5px;
+    font-family: $ops;
+    font-weight: $light;
+    font-size: $fontsize20;
+}
+
+.btn_custom_informasi:hover{
+    background-color: #2e3047;
+    color: $putih;
+    padding: 9px 14px;
+    border-radius: 5px;
+    font-family: $ops;
+    font-weight: $light;
+    font-size: $fontsize20;
+}
+
+.text_header_informasi h1{
+    font-family: $proza;
+    font-weight: $semibold;
+    font-size: 30px;
+    color: $primary;
+}
+
+.text_header_informasi p{
+    font-family: $ops;
+    font-weight: $light;
+    font-size: $fontsize20;
+    color: $primary;
+    margin: 20px 0;
+}
+
+.tagline_list h1{
+    font-family: $proza;
+    font-weight: $semibold;
+    font-size: 30px;
+    color: $primary;
+}
+.tagline_list p{
+    font-family: $ops;
+    font-weight: $light;
+    font-size: 20px;
+    color: $primary;
+    line-height: 38px;
+    margin-top: 15px;
+}
+
+.bg_secondary{
+    background-color: $secondary;
+    color: $putih;
+
+    h1{
+        font-family: $proza;
+        font-size: $fontsize26;
+        color: $putih;
+        font-weight: $semibold;
+    }
+
+    p{
+        font-family: $ops;
+        font-size: $fontsize20;
+        color: $putih;
+        font-weight: $light;
+    }
+
+    .btn_video{
+        background-color: $accent1;
+        padding: 14px 41px;
+        color: white;
+        font-family: $proza;
+        font-size: $fontsize20;
+        font-weight: $semibold;
+        border-radius: 0px;
+    }
+}
+
+
+// end all device
+
+
+// max phone
+
+@media (max-width: 576px) 
+{
+    .text_banner{
+        padding: 5px 30px;
+    }
+
+    .btn_link_informasi{
+        background-color: $secondary !important;
+        color: $putih !important;
+        font-family: $ops !important;
+        font-size: $fontsize13 !important;
+        font-weight: $regular !important;
+        padding: 10px 15px !important;
+        border-radius: 2px !important;
+    }
+    
+    .btn_link_informasi:hover{
+        background-color:  $primary !important;
+        color: $putih !important;
+        font-family: $ops !important;
+        font-size: $fontsize16 !important;
+        font-weight: $regular !important;
+    }
+
+    .page_informasi h1{
+        font-family: $proza;
+        font-weight: $semibold;
+        font-size: $fontsize16;
+        color: $putih;
+    }
+    
+    .page_informasi p{
+        font-family: $ops;
+        font-weight: $light;
+        font-size: 13px;
+        margin: 15px 0;
+        color: $putih;
+    }
+
+    .navbar_bottom{
+         p{
+             color: $primary !important;
+             font-family: $ops;
+             font-weight: $light;
+             font-size: 13px;
+         }
+    }
+
+    .navbar_bottom a.active_bottom{
+        p{
+            color: $accent1 !important;
+            font-family: $ops;
+            font-weight: $regular;
+            font-size: 13px;
+        }
+   }
+
+    .bg_secondary{
+        background-color: $secondary;
+        color: $putih;
+    
+        h1{
+            font-family: $proza;
+            font-size: $fontsize20;
+            color: $putih;
+            font-weight: $semibold;
+        }
+    
+        p{
+            font-family: $ops;
+            font-size: $fontsize16;
+            color: $putih;
+            font-weight: $light;
+        }
+    
+        .btn_video{
+            background-color: $accent1;
+            padding: 10px 20px;
+            color: white;
+            font-family: $proza;
+            font-size: $fontsize16;
+            font-weight: $semibold;
+            border-radius: 0px;
+        }
+    }
+
+    .banner{
+        padding-bottom: 150px !important;
+    }  
+
+
+    .kontak{
+        padding-bottom: 150px !important;
+        padding-top: 0 !important;
+    }
+
+    .card_pengaduan{
+        background-color: $primary;
+        border: none;
+        color: $putih;
+        border-radius: 5px !important;
+    }
+
+    .bg_pengaduan{
+        margin-bottom: 550px !important;
+    }
+
+    .text_pengaduan{
+        margin-top: 0px !important;
+    }
+
+    .svg_kebiasaan svg{
+        width: 90%;
+    }
+
+    .header_kebiasaan h1{
+        font-family: $proza;
+        font-weight: $semibold;
+        font-size: $fontsize16;
+        color: $primary;
+    }
+
+    .header_kebiasaan p{
+        font-family: $ops;
+        font-weight: $light;
+        font-size: $fontsize13;
+        color: $primary;
+        margin-top: 15px;
+        margin-bottom: 20px;
+    }
+
+    .kebiasaan_list{
+        padding-left: 50px;
+    }
+
+    .list_kebiasaan p{
+        font-family: $ops;
+        font-weight: $regular;
+        font-size: $fontsize13;
+        color: $primary;
+    }
+
+    .tagline_list h1{
+        font-family: $proza;
+        font-weight: $semibold;
+        font-size: $fontsize26;
+        color: $primary;
+    }
+    .tagline_list p{
+        font-family: $ops;
+        font-weight: $light;
+        font-size: $fontsize16;
+        color: $primary;
+        margin-top: 15px;
+        margin-bottom: 50px;
+    }
+
+    .video{
+        padding-bottom: 130px !important;
+    }
+}
+
+// min phone
+    @media (min-width: 576px) 
+    { 
+        .text_banner{
+            padding: 5px 50px;
+        }
+
+        .video{
+            padding-top: 0px !important;
+            padding-bottom: 100px !important;
+        }
+
+        .tagline{
+            padding-bottom: 130px !important;
+        }
+
+        .svg_kebiasaan svg{
+            width: 90%;
+        }
+
+        .header_kebiasaan h1{
+            font-family: $proza;
+            font-weight: $semibold;
+            font-size: $fontsize20;
+            color: $primary;
+            margin-top: 50px;
+        }
+
+        
+        .list_kebiasaan p{
+            font-family: $ops;
+            font-weight: $regular;
+            font-size: $fontsize16;
+            color: $primary;
+        }
+
+        .page_informasi h1{
+            font-family: $proza;
+            font-weight: $semibold;
+            font-size: $fontsize20;
+            color: $putih;
+        }
+
+        .page_informasi p{
+            font-family: $ops;
+            font-weight: $light;
+            font-size: $fontsize16;
+            color: $putih;
+        }
+
+        .banner{
+            padding-bottom: 130px !important;
+        }
+
+        .kontak{
+            padding-bottom: 150px !important;
+            padding-top: 0 !important;
+        }
+
+        .text_pengaduan{
+            margin-top: 0 !important;
+        }
+
+        .pengaduan{
+            margin-bottom: 550px !important;
+        }
+
+        .card_pengaduan{
+            border-radius: 5px;
+        }
+    }
+
+ // Handphone landscape
+    @media (min-width: 768px) 
+    {  
+        .page_informasi h1{
+            font-family: $proza;
+            font-weight: $semibold;
+            font-size: $fontsize26;
+            color: $putih;
+        }
+
+        .page_informasi p{
+            font-family: $ops;
+            font-weight: $light;
+            font-size: $fontsize20;
+            color: $putih;
+        }
+
+        .kontak{
+            padding-bottom: 200px !important;
+            padding-top: 50px !important;
+        }
+
+        .pengaduan{
+            padding-top: 50px !important;
+            margin-bottom: 300px !important;
+        }
+    }
+
+ // Laptop
+    @media (min-width: 992px) 
+    {  
+
+        .video{
+            padding-top: 0px !important;
+            padding-bottom: 0px !important;
+        }
+
+        .kontak{
+            padding: 100px !important;
+        }
+
+        .page_informasi h1{
+            font-family: $proza;
+            font-weight: $semibold;
+            font-size: $fontsize20;
+            color: $putih;
+        }
+
+        .page_informasi p{
+            font-family: $ops;
+            font-weight: $light;
+            font-size: $fontsize16;
+            color: $putih;
+        }
+    }
