@@ -26,12 +26,6 @@ https://www.highcharts.com/
 https://inorganik.github.io/countUp.js/
 https://gitbrent.github.io/bootstrap4-toggle/
 
-<!-- Peserta -->
-Nama : Oskar Maha Kasi
-Sekolah : SMA NEGERI 1 BEBANDEM
-Kontak : 081370573844
-Email : oskaresvada@yahoo.com
-
 <!-- link website -->
 https://lombawdc.developed.link/
 
