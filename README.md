@@ -29,5 +29,5 @@ https://gitbrent.github.io/bootstrap4-toggle/
 <!-- link website -->
 https://lombawdc.developed.link/
 
-copyright oskar maha kasi @2020 
+copyright maxyzcon @2020 
         Made with ❤️
